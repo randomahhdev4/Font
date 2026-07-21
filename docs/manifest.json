@@ -10,7 +10,7 @@
     }
   ],
   "repo": "https://github.com/randomahhdev4/Font",
-  "main": "index.js",
+  "main": "https://cdn.jsdelivr.net/gh/randomahhdev4/Font@main/docs/index.js",
   "vendetta": {
     "icon": "ic_theme_24px"
   }
