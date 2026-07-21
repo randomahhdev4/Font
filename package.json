@@ -1,0 +1,12 @@
+{
+  "name": "animated-topo-background",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.20.2",
+    "react-native-svg": "^15.15.5"
+  }
+}
