@@ -1,0 +1,14 @@
+{
+  "name": "Animated Topo Background",
+  "version": "1.0.0",
+  "description": "Renders a live, slowly-drifting topographic contour-line background behind chat, instead of a static theme image.",
+  "authors": [
+    {
+      "name": "Blaize"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_theme_24px"
+  }
+}
